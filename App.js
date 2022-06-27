@@ -5,6 +5,17 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>pikajju</Text>
+<<<<<<< HEAD
+=======
+      <Text>fala mano</Text>
+      <Text>qual foi macaco</Text>
+      <Text>so de boa?</Text>
+      <Text>tranquilidade uai</Text>
+      <Text>e por ai?</Text>
+      <Text>de boa dms uai</Text>
+      <Text>trabalho da porra </Text>
+      <Text>entt neh zé, tem q ver oq nois vai faze </Text>
+>>>>>>> master
       <StatusBar style="auto" />
     </View>
   );
