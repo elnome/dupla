@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>pikajju</Text>
+      <Text>opa</Text>
       <StatusBar style="auto" />
     </View>
   );
