@@ -8,6 +8,8 @@ export default function App() {
       <Text>fala mano</Text>
       <Text>qual foi macaco</Text>
       <Text>so de boa?</Text>
+      <Text>tranquilidade uai</Text>
+      <Text>e por ai?</Text>
       <StatusBar style="auto" />
     </View>
   );
