@@ -12,6 +12,7 @@ export default function App() {
       <Text>e por ai?</Text>
       <Text>de boa dms uai</Text>
       <Text>trabalho da porra </Text>
+      <Text>entt neh zé, tem q ver oq nois vai faze </Text>
       <StatusBar style="auto" />
     </View>
   );
