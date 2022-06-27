@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <Text>da um puul ai </Text> 
 =======
       <Text>pikajju</Text>
@@ -20,6 +21,10 @@ export default function App() {
       <Text>entt neh zé, tem q ver oq nois vai faze </Text>
 >>>>>>> master
 >>>>>>> parent of b8e8acc... pedro
+=======
+      <Text>da um puul ai </Text>
+      
+>>>>>>> parent of 8fe8c52... pedro
       <StatusBar style="auto" />
     </View>
   );
