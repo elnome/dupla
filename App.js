@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>pikajju</Text>
       <Text>fala mano</Text>
+      <Text>qual foi macaco</Text>
       <StatusBar style="auto" />
     </View>
   );
