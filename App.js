@@ -7,6 +7,7 @@ export default function App() {
       <Text>pikajju</Text>
       <Text>fala mano</Text>
       <Text>qual foi macaco</Text>
+      <Text>so de boa?</Text>
       <StatusBar style="auto" />
     </View>
   );
